@@ -1,0 +1,10 @@
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.csprojResolveAssemblyReference.cache
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.Form1.resources
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.Properties.Resources.resources
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.GenerateResource.Cache
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.CoreCompileInputs.cache
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\bin\Debug\ZombieShooter.exe.config
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\bin\Debug\ZombieShooter.exe
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\bin\Debug\ZombieShooter.pdb
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.exe
+C:\Users\betgr\Desktop\Uni Coding\Hackathons\Gaming\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.pdb
